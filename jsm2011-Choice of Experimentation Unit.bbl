@@ -1,0 +1,22 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{DasGupta}{2008}{asympstat}
+DasGupta, Anirban  \harvardyearleft 2008\harvardyearright , {\em Asymptotic
+  Theory of Statistics and Probability}, Springer.
+
+\harvarditem[Kohavi et~al.]{Kohavi, Longbotham, Sommerfield \harvardand\
+  Henne}{2009}{expsurvey}
+Kohavi, Ron, Roger Longbotham, Dan Sommerfield \harvardand\ Randal~M. Henne
+  \harvardyearleft 2009\harvardyearright , `Controlled experiments on the web:
+  survey and practical guide', {\em Data Mining Knowledge Discovery} {\bf
+  18},~140--181.
+
+\harvarditem[Tang et~al.]{Tang, Agarwal, O'Brien \harvardand\
+  Meyer}{2010}{googlesurvey}
+Tang, Diane, Ashish Agarwal, Deirdre O'Brien \harvardand\ Mike Meyer
+  \harvardyearleft 2010\harvardyearright , `Overlapping experiment
+  infrastructure: More, better, faster experimentation', {\em Proceedings of
+  the 16th ACM SIGKDD international conference on Knowledge discovery and data
+  mining} .
+
+\end{thebibliography}

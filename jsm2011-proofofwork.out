@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [2][-]{subsection.1.1}{Notation}{section.1}
+\BOOKMARK [1][-]{section.2}{User as Randomization Unit}{}
+\BOOKMARK [2][-]{subsection.2.1}{User Level Metrics}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Page Level Metrics}{section.2}
+\BOOKMARK [1][-]{section.3}{Page View as Randomizaiton Unit}{}
+\BOOKMARK [2][-]{subsection.3.1}{A two layer randomization framework}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Variance formula}{section.3}
+\BOOKMARK [1][-]{section.4}{Discussion}{}
+\BOOKMARK [1][-]{section.5}{Simulation and Empirical Results}{}
+\BOOKMARK [2][-]{subsection.5.1}{Randomization by User}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Randomization by Page View}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Ki Poisson case}{subsection.5.2}
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Ki constant case}{subsection.5.2}
+\BOOKMARK [1][-]{section.6}{Conclusion}{}

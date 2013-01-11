@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.08pt}
+\select@language {english}
+\beamer@sectionintoc {1}{\scshape Introduction to Controlled Experiment on Web}{3}{0}{1}
+\beamer@sectionintoc {2}{User as the Experiment Unit}{11}{0}{2}
+\beamer@sectionintoc {3}{Page view as the Experiment Unit}{15}{0}{3}
+\beamer@sectionintoc {4}{\scshape Conclusion and Future Work }{23}{0}{4}
+\beamer@sectionintoc {5}{Other Experiment Unit(Internal Review)}{25}{0}{5}
